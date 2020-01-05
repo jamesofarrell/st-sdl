@@ -15,7 +15,7 @@
 #define KEY_BACKSPACE SDLK_BACKSPACE // R
 #define KEY_SHIFT SDLK_TAB // L
 #define KEY_LOCATION SDLK_LSHIFT // Y
-#define KEY_ACTIVATE SDLK_SPACE // X
+#define KEY_ACTIVATE SDLK_PAGEDOWN // X  // (was spacebar and so made using an external keyboard impossible as all spaces were activating onscreen keyboard)
 #define KEY_QUIT SDLK_HOME // SELECT
 #define KEY_HELP SDLK_RETURN // START
 #define KEY_TAB SDLK_ESCAPE // START
